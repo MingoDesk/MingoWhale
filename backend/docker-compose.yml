@@ -1,0 +1,18 @@
+version: '3.9'
+networks:
+  mingo-databases:
+    external: true
+services:
+  mingo-chan:
+    env_file:
+      - './mingochan.env'
+    container_name: 'mingochan-backend'
+    volumes:
+      - mingochan_data:/app/store
+    build: ../../Mingo-chan
+    ports:
+      - 1928:1928
+    networks:
+      - mingo-databases
+volumes:
+  mingochan_data:
