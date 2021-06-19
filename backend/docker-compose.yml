@@ -9,7 +9,7 @@ services:
     container_name: 'mingochan-backend'
     volumes:
       - mingochan_data:/app/store
-    build: ../../Mingo-chan
+    build: ../../MingoChan
     ports:
       - 1928:1928
     networks:
