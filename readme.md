@@ -77,3 +77,7 @@ MONGO_NEW_PASS=ANOTHERPASSWORDHERE
 Authored by TitusEntertainment.
 
 > GitHub [@TitusEntertainment](https://github.com/TitusEntertainment)
+
+### Other notes
+
+Big thanks to [@MrJvs](https://github.com/MrJvs) for his assistance with this repo
