@@ -1,5 +1,11 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MingoDeskLogo" src="https://avatars.githubusercontent.com/u/77510075?s=200&v=4">
 
+<h1 style="margin-top:50px">MingoWhale</h1>
+<br />
+<br />
+<br />
+<br />
+
 [![Discord Server](https://canary.discord.com/api/guilds/799726621455417374/embed.png)](https://discord.gg/Rr5hGZs)
 
 This repo contains the docker-compose files for production.
