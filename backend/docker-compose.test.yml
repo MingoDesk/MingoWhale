@@ -10,9 +10,9 @@ services:
     volumes:
       - mingochan_data:/app/store
     build:
-      context: ../../MingoChan
+      context: ../../Mingo-chan
       dockerfile: Dockerfile
-      target: runner
+      target: tester
     ports:
       - 1928:1928
     networks:
